@@ -1,5 +1,9 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+```
+Developed by: Naveenkumar M
+Reg.No: 212224230182
+```
 
 ## AIM:
 
